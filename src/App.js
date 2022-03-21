@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Proyecto prueba Rama para coderhouse {FaApple}
+          Proyecto prueba Rama para coderhouse <FaApple />
         </a>
       </header>
     </div>
