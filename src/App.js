@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Proyecto prueba Rama
         </a>
       </header>
     </div>
