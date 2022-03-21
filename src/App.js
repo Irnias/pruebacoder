@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Proyecto prueba Rama
+          Proyecto prueba Rama para coderhouse
         </a>
       </header>
     </div>
